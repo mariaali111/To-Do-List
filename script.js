@@ -80,7 +80,7 @@ function renderTasks() {
             <div class="priority-badge priority-${t.priority}">
                 <i class="fas fa-circle"></i> ${t.priority.charAt(0).toUpperCase() + t.priority.slice(1)}
             </div>
-            <div class="avatar">CF</div>
+            <div class="avatar">MA</div>
 
             <button class="icon-btn" style="width: 30px; height: 30px;" onclick="editTask(${t.id})">
                 <i class="fas fa-pen" style="font-size: 12px;"></i>
@@ -103,7 +103,7 @@ function renderTasks() {
             <div class="priority-badge priority-${t.priority}">
                 <i class="fas fa-circle"></i> ${t.priority.charAt(0).toUpperCase() + t.priority.slice(1)}
             </div>
-            <div class="avatar">CF</div>
+            <div class="avatar">MA</div>
 
             <button class="icon-btn" style="width: 30px; height: 30px;" onclick="editTask(${t.id})">
                 <i class="fas fa-pen" style="font-size: 12px;"></i>

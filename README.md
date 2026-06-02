@@ -23,8 +23,7 @@ A simple and responsive task management application built using HTML, CSS, and J
 
 ## Screenshots
 
-<img width="1918" height="1072" alt="image" src="https://github.com/user-attachments/assets/96d63c0d-2312-4a4a-9007-7934763239f1" />
-
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/83d619c6-8d7f-46c1-8d86-f7523fe96c51" />
 
 ## Live Demo
 
